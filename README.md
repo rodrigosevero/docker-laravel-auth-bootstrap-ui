@@ -1,6 +1,6 @@
 cp .env.example .env
 
-docker-compose up
+docker compose up
 
 Abrir outra instancia do terminal e rodar os seguintes comandos:
 
